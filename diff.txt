@@ -1,1 +1,2 @@
-git 2 repository
+git 1.5 repository
+
