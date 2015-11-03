@@ -1,0 +1,9 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+classpath/
+
+# Package Files #
+*.jar
+*.war
+*.ear
